@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{20C91B5F-4707-D566-9CAD-6FB1D0BD6EAA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MiniGolfVR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
